@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc351935-0151-4a3f-9278-06b2cb319e85": {
+      "ProjectGuid": "bc351935-0151-4a3f-9278-06b2cb319e85",
+      "DisplayName": "ConsultaCep",
+      "ColorIndex": 0
+    },
+    "f326254f-9b7e-49a7-a4d3-e9570306eaf2": {
+      "ProjectGuid": "f326254f-9b7e-49a7-a4d3-e9570306eaf2",
+      "DisplayName": "ConsultaCepForm",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

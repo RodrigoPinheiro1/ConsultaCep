@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\bin\Debug\ConsultaCep.exe.config
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\bin\Debug\ConsultaCep.exe
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\bin\Debug\ConsultaCep.pdb
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\obj\Debug\ConsultaCep.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\obj\Debug\ConsultaCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\obj\Debug\ConsultaCep.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\obj\Debug\ConsultaCep.exe
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCep\obj\Debug\ConsultaCep.pdb

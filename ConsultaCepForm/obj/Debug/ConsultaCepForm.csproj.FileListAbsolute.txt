@@ -1,0 +1,11 @@
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\bin\Debug\ConsultaCepForm.exe.config
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\bin\Debug\ConsultaCepForm.exe
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\bin\Debug\ConsultaCepForm.pdb
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.Form1.resources
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.exe
+C:\Users\rodri\OneDrive\Documentos\projetos\Consulta\ConsultaCepForm\obj\Debug\ConsultaCepForm.pdb
